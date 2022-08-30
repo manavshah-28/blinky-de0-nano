@@ -1,4 +1,3 @@
-Verilog code :
 module blinky(input clk,//50 MHz clock
               output reg led);
 				  
